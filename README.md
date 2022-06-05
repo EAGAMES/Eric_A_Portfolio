@@ -72,7 +72,15 @@ Reccomendations:
 -Manhattan was found to be the most profitable neighbourhood at $3376 for every Airbnb unit on average.
 ![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Most%20Profitable%20Airbnb%20neighborhood.PNG)
 
-8. # [Project 8: **Airbnb Python Project**](https://1drv.ms/b/s!Aj167BdLwLTunmqm898H2mCICYl1)
+8.  # [Project 8a: **Python Southern Water Corp Project**](https://1drv.ms/b/s!Aj167BdLwLTunyEvBuR7qbeU-B7J?e=sIJfbs)
+-Data exploration of how engineering statistics impact whether a water desalination pump will fail or not.
+-If the rolling 30-min average Standard Deviation is used, it can be determined ahead of time if a pump will fail or not
+-Looking closely at the chart, certain variables increase before the pump fails
+
+![](Images/Regression%20Chart.PNG)
+
+
+10. # [Project 8b: **Python Southern Water Corp Project**](https://1drv.ms/b/s!Aj167BdLwLTunmqm898H2mCICYl1)
 -Created a mutlifactor regression equation that can predict pump failure (within 10 minutes before it actually occurs) using multiple engineering variables.
 
 ![](Images/Multifactor%20Regression%20Equation.PNG)
