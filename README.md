@@ -1,5 +1,5 @@
 # Eric_A_Portfolio
-Data Analytics Portfolio: 
+Data Analytics Portfolio (Click the Project Link to view file if interested): 
 
 # [Project 1: **American Energy Market Regulators (AEMR) Outage Report**](https://onedrive.live.com/edit.aspx?resid=EEB4C04B17EC7A3D!3914&ithint=file%2cpptx&authkey=!AHf-WDwLVwrbY2k)
 Using SQL, gathered data regarding 18 utility company's outages across the United States from 2016 to 2017.
@@ -67,6 +67,9 @@ Reccomendations:
 -Figure out a 4th chemical that Paper & Packaging wants, the Business Development team can talk over with our top 5 clients and then our scientists can make the chemical.
 -Invest in either additional factories, or new factory equipment to allow for more cost-efficent production of chemicals K, H & I
 
-7. 
+7. # [Project 7: **Airbnb Python Project**](https://1drv.ms/b/s!Aj167BdLwLTunyCI7FVqk4mnYBrE)
+
+
+8. # [Project 8: **Airbnb Python Project**]
 
 
