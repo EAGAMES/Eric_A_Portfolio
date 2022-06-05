@@ -4,7 +4,7 @@ Data Analytics Portfolio:
 1. **American Energy Market Regulators (AEMR) Outage Report** (https://onedrive.live.com/edit.aspx?resid=EEB4C04B17EC7A3D!3914&ithint=file%2cpptx&authkey=!AHf-WDwLVwrbY2k)
 Using SQL, gathered data regarding 18 utility company's outages across the United States from 2016 to 2017.
 
-![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/AEMR%20Case%20Study%20Picture.PNG)
+![](Images/AEMR%20Case%20Study%20Picture.PNG)
 
 Main Point: Outages are getting worse in terms of average duration of outage, capacity loss (MW), and 3 out of the 18 companies analyzed should be investigated to reverse the troubling trend.
 
@@ -24,7 +24,7 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
 
 -Created single-variable regression equations and a multi-regression variable equation (R=0.6 to 0.69) that predicted water pump failure. 
 
-![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Section%208.6.2%20Inferential%20Stats.PNG)
+![](Images/Section%208.6.2%20Inferential%20Stats.PNG)
 
 3. **Southern Water Corp Financial Analysis** (https://1drv.ms/x/s!Aj167BdLwLTunT4VzIaeogNbVBwm?e=uQyheY)
 
@@ -33,13 +33,13 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
 
 -By profitability, Jutik had a 44.5% profit margin vs. Kootha at 25.3% and Surjek at 9.4% respectively.  
 
-![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/EBIT%20Per%20Water%20Desalination%20Unit.PNG)
+![](Images/EBIT%20Per%20Water%20Desalination%20Unit.PNG)
 
 4. **Southern Water Corp Economics Case Study** (https://1drv.ms/x/s!Aj167BdLwLTunUyIptlAsTT79Yi3?e=rfgY8m) 
 
 -Using SUMIFS equations, found that the more water is produced from all 3 operating units. Such as if Kootha produced 98k Mega-Litres of water, that would cost $37.17 for every Mega-Litre of water. If production doubles to 185k Mega-Litres, the cost goes down to $18.93 for every Mega-Litre or roughly half. 
 
-![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Southern%20Water%20Corp%20Economic%20Analysis.PNG)
+![](Images/Southern%20Water%20Corp%20Economic%20Analysis.PNG)
 
 5. **Superstore Sales Seasonal Forecasting Analysis** (https://public.tableau.com/app/profile/eric.charles.alldritt/viz/Section11_6CapstonePartIII/Story1#1)
  
@@ -48,7 +48,7 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
 
 -For the purpose of helping the Purchasing Team determine by region (North, South, East and West), by category (Office, Furniture, Technology) and month how much inventory to purchase for regional distribution offices. 
 
-![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Tableau%20Superstore%20Image.PNG)
+![](Images/Tableau%20Superstore%20Image.PNG)
 
 6. **ChemCorp Tableau Presentation** (https://public.tableau.com/views/Section11_5ChemCorpPresentation/StoryChemCorpPresentation?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -61,7 +61,7 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
  -For Paper & Packaging, Chemicals K, H & I represent 95% of that unit's gross profit ($11.4 Million)
  -Breaking down by customers, Paper & Packaging has 95 unique customers, the top 5 represent 55% ($6.7 million) of gross profit for Paper & Packaging
  
- ![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/ChemCorp%20Main%20Image.PNG)
+ ![](Images/ChemCorp%20Main%20Image.PNG)
  
 Reccomendations:
 -Develop a department that is solely focused on catering to ChemCorp's Top 5 Clients.
