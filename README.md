@@ -24,7 +24,7 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
 
 -Created single-variable regression equations and a multi-regression variable equation (R=0.6 to 0.69) that predicted water pump failure. 
 
-
+![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Section%208.6.2%20Inferential%20Stats.PNG)
 
 3. **Southern Water Corp Financial Analysis** (https://1drv.ms/x/s!Aj167BdLwLTunT4VzIaeogNbVBwm?e=uQyheY)
 
@@ -33,12 +33,13 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
 
 -By profitability, Jutik had a 44.5% profit margin vs. Kootha at 25.3% and Surjek at 9.4% respectively.  
 
+![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/EBIT%20Per%20Water%20Desalination%20Unit.PNG)
 
 4. **Southern Water Corp Economics Case Study** (https://1drv.ms/x/s!Aj167BdLwLTunUyIptlAsTT79Yi3?e=rfgY8m) 
 
 -Using SUMIFS equations, found that the more water is produced from all 3 operating units. Such as if Kootha produced 98k Mega-Litres of water, that would cost $37.17 for every Mega-Litre of water. If production doubles to 185k Mega-Litres, the cost goes down to $18.93 for every Mega-Litre or roughly half. 
 
- 
+![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Southern%20Water%20Corp%20Economic%20Analysis.PNG)
 
 5. **Superstore Sales Seasonal Forecasting Analysis** (https://public.tableau.com/app/profile/eric.charles.alldritt/viz/Section11_6CapstonePartIII/Story1#1)
  
@@ -46,3 +47,5 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
 -Created line & Bar charts to show seasonality trends in sales (such as November’s sales on average are 6X higher [15.5% for the total year] than February [2.6% of annual sales]. 
 
 -For the purpose of helping the Purchasing Team determine by region (North, South, East and West), by category (Office, Furniture, Technology) and month how much inventory to purchase for regional distribution offices. 
+
+![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Tableau%20Superstore%20Image.PNG)
