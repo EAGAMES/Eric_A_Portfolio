@@ -4,6 +4,8 @@ Data Analytics Portfolio:
 1. **American Energy Market Regulators (AEMR) Outage Report** (https://onedrive.live.com/edit.aspx?resid=EEB4C04B17EC7A3D!3914&ithint=file%2cpptx&authkey=!AHf-WDwLVwrbY2k)
 Using SQL, gathered data regarding 18 utility company's outages across the United States from 2016 to 2017.
 
+https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/AEMR%20Case%20Study%20Picture.PNG
+
 Main Point: Outages are getting worse in terms of average duration of outage, capacity loss (MW), and 3 out of the 18 companies analyzed should be investigated to reverse the troubling trend.
 
 -Main findings included: 
