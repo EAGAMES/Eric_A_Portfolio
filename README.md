@@ -80,7 +80,7 @@ Reccomendations:
 ![](Images/Regression%20Chart.PNG)
 
 
-10. # [Project 8b: **Python Southern Water Corp Project**](https://1drv.ms/b/s!Aj167BdLwLTunmqm898H2mCICYl1)
+8b. # [Project 8b: **Python Southern Water Corp Project**](https://1drv.ms/b/s!Aj167BdLwLTunmqm898H2mCICYl1)
 -Created a mutlifactor regression equation that can predict pump failure (within 10 minutes before it actually occurs) using multiple engineering variables.
 
 ![](Images/Multifactor%20Regression%20Equation.PNG)
