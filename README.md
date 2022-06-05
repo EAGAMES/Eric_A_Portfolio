@@ -50,7 +50,7 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
 
 ![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Tableau%20Superstore%20Image.PNG)
 
-6. **ChemCorp Tableau Presentation ** (https://public.tableau.com/views/Section11_5ChemCorpPresentation/StoryChemCorpPresentation?:language=en-US&:display_count=n&:origin=viz_share_link)
+6. **ChemCorp Tableau Presentation** (https://public.tableau.com/views/Section11_5ChemCorpPresentation/StoryChemCorpPresentation?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 -Tableau Presentation analyzing sales data for ChemCorp
 
@@ -67,5 +67,7 @@ Reccomendations:
 -Develop a department that is solely focused on catering to ChemCorp's Top 5 Clients.
 -Figure out a 4th chemical that Paper & Packaging wants, the Business Development team can talk over with our top 5 clients and then our scientists can make the chemical.
 -Invest in either additional factories, or new factory equipment to allow for more cost-efficent production of chemicals K, H & I
+
+7. 
 
 
