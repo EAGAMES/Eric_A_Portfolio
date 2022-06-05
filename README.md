@@ -61,7 +61,7 @@ Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, 
  -For Paper & Packaging, Chemicals K, H & I represent 95% of that unit's gross profit ($11.4 Million)
  -Breaking down by customers, Paper & Packaging has 95 unique customers, the top 5 represent 55% ($6.7 million) of gross profit for Paper & Packaging
  
- 
+ ![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/ChemCorp%20Main%20Image.PNG)
  
 Reccomendations:
 -Develop a department that is solely focused on catering to ChemCorp's Top 5 Clients.
