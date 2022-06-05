@@ -1,5 +1,5 @@
 # Eric_A_Portfolio
-Example Data Analytics Portfolio: 
+Data Analytics Portfolio: 
 
 1. **American Energy Market Regulators (AEMR) Outage Report** (https://onedrive.live.com/edit.aspx?resid=EEB4C04B17EC7A3D!3914&ithint=file%2cpptx&authkey=!AHf-WDwLVwrbY2k)
 Using SQL, gathered data regarding 18 utility company's outages across the United States from 2016 to 2017.
