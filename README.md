@@ -68,8 +68,12 @@ Reccomendations:
 -Invest in either additional factories, or new factory equipment to allow for more cost-efficent production of chemicals K, H & I
 
 7. # [Project 7: **Airbnb Python Project**](https://1drv.ms/b/s!Aj167BdLwLTunyCI7FVqk4mnYBrE)
+-Explored Airbnb project data within the New York Area
+-Manhattan was found to be the most profitable neighbourhood at $3376 for every Airbnb unit on average.
+![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Most%20Profitable%20Airbnb%20neighborhood.PNG)
 
+8. # [Project 8: **Airbnb Python Project**](https://1drv.ms/b/s!Aj167BdLwLTunmqm898H2mCICYl1)
+-Created a mutlifactor regression equation that can predict pump failure (within 10 minutes before it actually occurs) using multiple engineering variables.
 
-8. # [Project 8: **Airbnb Python Project**]
-
+![](Images/Multifactor%20Regression%20Equation.PNG)
 
