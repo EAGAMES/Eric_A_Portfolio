@@ -16,11 +16,31 @@ From 2016 to 2017 Sum of MW Capacity Loss went from 70k to 82k MW.
 Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, the rest saw no increase or actually decreased in MW Capacity Loss.
 
 
-2. **Superstore Sales Seasonal Forecasting Analysis** (https://public.tableau.com/app/profile/eric.charles.alldritt/viz/Section11_6CapstonePartIII/Story1#1)
--A Tableau Presentation, regarding an analysis of Superstore's 2015-18 sales data.
+2. **Southern Water Corp Inferential Statistics** (https://1drv.ms/x/s!Aj167BdLwLTunVcQhOwoYm8Rvpwp?e=0HduA9)
 
--Main findings indicate that any month's seasonal share of sales can vary from as low as 2% of sales for February or as high as 15.5% in November. Or how Q1 2016 sales was $62k to $181k in Q4 2016 to only drop $93k in Q1 2017 and then rise again.
+-Created 30-minute rolling averages and rolling standard deviation averages to analyze whether a water-pump would fail. 
 
--This helps avoid the "bullwhip effect" for retailers in the event they order too many or too little inventory.
+-Created single-variable regression equations and a multi-regression variable equation (R=0.6 to 0.69) that predicted water pump failure. 
 
-3. **Southern Water Corp Economic Analysis**
+
+
+3. **Southern Water Corp Financial Analysis** (https://1drv.ms/x/s!Aj167BdLwLTunT4VzIaeogNbVBwm?e=uQyheY)
+
+ 
+-Using SUMIF, compiled daily expenses into monthly expenses based on unit, revenue vs. Expense. Discovered out of the 3 desalination units (Kootha, Surjey and Jutik), Jutik produced the highest profits at $146 million vs. Surjek at $38 million and Kootha at $36 million respectively. 
+
+-By profitability, Jutik had a 44.5% profit margin vs. Kootha at 25.3% and Surjek at 9.4% respectively.  
+
+
+4. **Southern Water Corp Economics Case Study** (https://1drv.ms/x/s!Aj167BdLwLTunUyIptlAsTT79Yi3?e=rfgY8m) 
+
+-Using SUMIFS equations, found that the more water is produced from all 3 operating units. Such as if Kootha produced 98k Mega-Litres of water, that would cost $37.17 for every Mega-Litre of water. If production doubles to 185k Mega-Litres, the cost goes down to $18.93 for every Mega-Litre or roughly half. 
+
+ 
+
+5. **Superstore Sales Seasonal Forecasting Analysis** (https://public.tableau.com/app/profile/eric.charles.alldritt/viz/Section11_6CapstonePartIII/Story1#1)
+ 
+
+-Created line & Bar charts to show seasonality trends in sales (such as November’s sales on average are 6X higher [15.5% for the total year] than February [2.6% of annual sales]. 
+
+-For the purpose of helping the Purchasing Team determine by region (North, South, East and West), by category (Office, Furniture, Technology) and month how much inventory to purchase for regional distribution offices. 
