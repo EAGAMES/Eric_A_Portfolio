@@ -1,5 +1,5 @@
 # Eric C. Alldritt Data Analytics Portfolio
-# [(**Datacamp Completed Certificates**)](https://www.datacamp.com/profile/ericalldritt?tab=learning-history&id=courses)
+# [(**Datacamp Completed Certificates**)](https://www.linkedin.com/in/eca/) [Licenses & Certifications Section]
 (Click the Project Link to view file/code for more details)
 
 # [(SQL & PowerPoint): **American Energy Market Regulators (AEMR) Outage Report**](https://onedrive.live.com/edit.aspx?resid=EEB4C04B17EC7A3D!3914&ithint=file%2cpptx&authkey=!AHf-WDwLVwrbY2k)
