@@ -1,6 +1,6 @@
-# Eric_A_Portfolio
+# Eric C. Alldritt Data Analytics Portfolio
 Datacamp Completed Credentials: (https://www.datacamp.com/profile/ericalldritt?tab=learning-history&id=courses)
-Data Analytics Portfolio (Click the Project Link to view file if interested): 
+(Click the Project Link to view file if interested): 
 
 # [Project 1: **American Energy Market Regulators (AEMR) Outage Report**](https://onedrive.live.com/edit.aspx?resid=EEB4C04B17EC7A3D!3914&ithint=file%2cpptx&authkey=!AHf-WDwLVwrbY2k)
 Using SQL, gathered data regarding 18 utility company's outages across the United States from 2016 to 2017.
