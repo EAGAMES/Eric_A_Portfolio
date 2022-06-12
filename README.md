@@ -9,14 +9,14 @@ Gathered data regarding 18 utility company's outages across the United States fr
 
 Main Point: Outages are getting worse in terms of average duration of outage, capacity loss (MW), and 3 out of the 18 companies analyzed should be investigated to reverse the troubling trend.
 
--Main findings included: 
-From 2016 to 2017 the average Forced Outage Time had increased from 14 to 19 hours.
+Main findings included: 
+-From 2016 to 2017 the average Forced Outage Time had increased from 14 to 19 hours.
 
-From 2016 to 2017 Sum of MW Capacity Loss went from 70k to 82k MW.
+-From 2016 to 2017 Sum of MW Capacity Loss went from 70k to 82k MW.
 
-3 (AURICON, TRMOS, PUG) out of 18 companies represent a net annual increase of 486 outages
+-3 (AURICON, TRMOS, PUG) out of 18 companies represent a net annual increase of 486 outages
 
-Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, the rest saw no increase or actually decreased in MW Capacity Loss.
+-Only 4 out of 18 providers saw an increase of at least a 2000 MW Capacity Loss, the rest saw no increase or actually decreased in MW Capacity Loss.
 
 # [(Tableau): **Superstore Sales Seasonal Forecasting Analysis**](https://public.tableau.com/app/profile/eric.charles.alldritt/viz/Section11_6CapstonePartIII/Story1#1)
  
