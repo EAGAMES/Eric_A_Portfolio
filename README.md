@@ -86,3 +86,22 @@ Reccomendations:
 
 ![](Images/Southern%20Water%20Corp%20Economic%20Analysis.PNG)
 
+# [(SQL/Jupyter Notebook): International Debt Statistics**](https://1drv.ms/b/s!Aj167BdLwLTun3iyb8MVZiEyiiIR)
+
+-Used SELECT FROM GROUP BY ORDER BY clauses to discover that China among all countries has the highest amount of debt at $285 Billion according to the World Bank.
+
+# [(SQL/Jupyter Notebook): NYC Test Scores**](https://1drv.ms/b/s!Aj167BdLwLTun3nGN84cbFsxqLKk)
+
+-Out of 375 schools in New York City, there are 4 (1%) that have an average Math SAT score of at least 700.
+-According to Soloman Admissions Consulting, in order to be competitive for applying to an Ivy League school a 1550+ (775 for Reading and Math) combined SAT score is needed (https://www.solomonadmissions.com/post/what-is-a-good-sat-score-for-ivy-league).
+
+# [(SQL/Jupyter Notebook): Nike and Adidas Sales and Product Reviews**](https://1drv.ms/b/s!Aj167BdLwLTun3oD5V3PjYs50rYP)
+
+-The correlation between reviews and revenue of individual items for both Nike and Adidas products is R^2 = .65. Meaning the more reviews a product has, the more revenue it tends to make.
+-The winter months (January-March) tend to have the highest number of reviews for both Nike and Adidas products. Could be due to holiday shopping, along with New Year's Resolutions.
+-The medain amount of revenue that footwear makes is $3,118 vs. apparel at $504 or footwear has a 6X higher median revenue than apparel. 
+
+# [(SQL/Jupyter Notebook): Video Game Sales and Reviews**](https://1drv.ms/b/s!Aj167BdLwLTun3vU4bjTyoq7IZwq)
+
+-The late 1990's and late 2000's were the highest in terms of highest average review scores that gamers loved, along with critics loving 1990-95 (average critic score at least 9 out of 10 for all years).
+-The highest total number of games sold was in 2008 at 175 million.
