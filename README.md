@@ -36,24 +36,32 @@ Created a line charts, waterfall chart, bubble charts, pie chart and map of the 
 
 Main Findings:
  50% of gross profit ($12 Million) comes from Paper & Packaging (out of 6 different industries)
+ 
  For Paper & Packaging, Chemicals K, H & I represent 95% of that unit's gross profit ($11.4 Million)
+ 
  Breaking down by customers, Paper & Packaging has 95 unique customers, the top 5 represent 55% ($6.7 million) of gross profit for Paper & Packaging
  
  ![](Images/ChemCorp%20Main%20Image.PNG)
  
 Reccomendations:
 Develop a department that is solely focused on catering to ChemCorp's Top 5 Clients
+
 Figure out a 4th chemical that Paper & Packaging wants, the Business Development team can talk over with our top 5 clients and then our scientists can make the chemical
+
 Invest in either additional factories, or new factory equipment to allow for more cost-efficent production of chemicals K, H & I
 
 # [(Python): **Airbnb Data Exploration Project**](https://1drv.ms/b/s!Aj167BdLwLTunyCI7FVqk4mnYBrE)
+
 Explored Airbnb project data within the New York Area
+
 Manhattan was found to be the most profitable neighbourhood at $3376 for every Airbnb unit on average
 ![](https://github.com/EAGAMES/Eric_A_Portfolio/blob/main/Images/Most%20Profitable%20Airbnb%20neighborhood.PNG)
 
 # [(Python): **Southern Water Corp Statistics Project**](https://1drv.ms/b/s!Aj167BdLwLTunyEvBuR7qbeU-B7J?e=sIJfbs)
 Data exploration of how engineering statistics impact whether a water desalination pump will fail or not
+
 If the rolling 30-min average Standard Deviation is used, it can be determined ahead of time if a pump will fail or not
+
 Looking closely at the chart, certain variables increase before the pump fails
 
 ![](Images/Regression%20Chart.PNG)
@@ -89,7 +97,7 @@ Using SUMIFS equations, found that the more water is produced from all 3 operati
 
 # [(SQL/Jupyter Notebook): International Debt Statistics**](https://1drv.ms/b/s!Aj167BdLwLTun3iyb8MVZiEyiiIR)
 
--Used SELECT FROM GROUP BY ORDER BY clauses to discover that China among all countries has the highest amount of debt at $285 Billion according to the World Bank.
+Used SELECT FROM GROUP BY ORDER BY clauses to discover that China among all countries has the highest amount of debt at $285 Billion according to the World Bank.
 
 # [(SQL/Jupyter Notebook): NYC Test Scores**](https://1drv.ms/b/s!Aj167BdLwLTun3nGN84cbFsxqLKk)
 
@@ -98,11 +106,14 @@ According to Soloman Admissions Consulting, in order to be competitive for apply
 
 # [(SQL/Jupyter Notebook): Nike and Adidas Sales and Product Reviews**](https://1drv.ms/b/s!Aj167BdLwLTun3oD5V3PjYs50rYP)
 
-The correlation between reviews and revenue of individual items for both Nike and Adidas products is R^2 = .65. Meaning the more reviews a product has, the more revenue it tends to make
+The correlation between reviews and revenue of individual items for both Nike and Adidas products is R^2 = .65. Meaning the more reviews a product has, the more revenue it makes
+
 The winter months (January-March) tend to have the highest number of reviews for both Nike and Adidas products. Could be due to holiday shopping, along with New Year's Resolutions
+
 The median amount of revenue that footwear makes is $3,118 vs. apparel at $504 or footwear has a 6X higher median revenue than apparel
 
 # [(SQL/Jupyter Notebook): Video Game Sales and Reviews**](https://1drv.ms/b/s!Aj167BdLwLTun3vU4bjTyoq7IZwq)
 
 The late 1990's and late 2000's were the highest in terms of highest average review scores that gamers loved, along with critics loving 1990-95 (average critic score at least 9 out of 10 for all years)
+
 The highest total number of games sold was in 2008 at 175 million
