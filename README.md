@@ -28,6 +28,27 @@ For the purpose of helping the Purchasing Team determine by region (North, South
 
 ![](Images/Tableau%20Superstore%20Image.PNG)
 
+# [(Tableau): **DataCo Sales Tableau Presentation**](https://public.tableau.com/app/profile/eric.charles.alldritt/viz/FinalCapstoneSales/StructureApporach)
+
+Tableau Presentation analyzing sales data for DataCo
+
+Created a line charts, waterfall chart, bubble charts, pie chart and map of the United States.
+
+Main Findings:
+ 
+ 5 out of 121 items represented 61% of gross profit
+ 
+ Common niche is fitness, sports and outdoor recreation
+ 
+ Reccomendations:
+ 
+ Focus on fitness/outdoor recreational gear
+ 
+ Remove the bottom 110 lowest performing items that are not related to fitness/outdoor recreation
+ 
+ <img width="716" alt="Capstone Top 5 Sales" src="https://user-images.githubusercontent.com/105129362/188236895-0cd95c29-5763-4547-b78f-fdd8f1b5c1dc.PNG">
+
+
 # [(Tableau): **ChemCorp Tableau Presentation**](https://public.tableau.com/views/Section11_5ChemCorpPresentation/StoryChemCorpPresentation?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Tableau Presentation analyzing sales data for ChemCorp
